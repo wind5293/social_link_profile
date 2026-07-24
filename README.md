@@ -33,8 +33,8 @@ Please don't mind about my avatar tysm
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/wind5293/social_link_profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://github.com/wind5293/social_link_profile)
+- Live Site URL: [here](https://your-live-site-url.com)
 
 ## My process
 
