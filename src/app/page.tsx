@@ -14,12 +14,12 @@ const SOCIAL_LINKS = [
 
 export default function Home() {
     return (
-        <div className="flex flex-col h-screen justify-center items-center">
-            <div className="bg-gray-900 p-8 w-96 min-h-fit justify-center place-items-center rounded-xl grid grid-cols-1 gap-3">
+        <div className="bg-black flex flex-col h-screen justify-center items-center">
+            <div className="bg-gray-900 p-8 w-96 min-h-fit justify-center place-items-center rounded-xl grid grid-cols-1 gap-3 text-white">
                 <Image
                     width={100}
                     height={100}
-                    src="/cat.jpg"
+                    src="/social_link_profile/cat.jpg"
                     alt="my_avatar"
                     className="rounded-full"
                 />
